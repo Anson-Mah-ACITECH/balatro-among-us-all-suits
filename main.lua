@@ -14,7 +14,23 @@ SMODS.DeckSkin {
 	lc_atlas = "collab_AU_clubs_1",
 	hc_atlas = "collab_AU_clubs_2",
 	posStyle = "collab",
-	loc_txt = {["en-us"] = "Among Us"}
+	loc_txt = {
+		['en-us'] = "Among Us", -- English
+		['de'] = "Among Us", -- German / Deutsch
+		['es_419'] = "Among Us", -- Spanish (Mexico) / Español (México)
+		['es_ES'] = "Among Us", -- Spanish (Spain) / Español (España)
+		['fr'] = "Among Us", -- French / Français
+		['id'] = "Among Us", -- Indonesian / Bahasa Indonesia
+		['it'] = "Among Us", -- Italian / Italiano
+		['ja'] = "Among Us", -- Japanese / 日本語
+		['ko'] = "Among Us", -- Korean / 한국어
+		['nl'] = "Among Us", -- Dutch / Nederlands
+		['pl'] = "Among Us", -- Polish / Polski
+		['pt_BR'] = "Among Us", -- Portugese (Brazilian) / Português
+		['ru'] = "Among Us", -- Russian / Русский
+		['zh_CN'] = "Among Us", -- Simplified Chinese / 简体中文
+		['zh_TW'] = "Among Us", -- Traditional Chinese / 繁體中文
+	}
 }
 
 SMODS.DeckSkin {
@@ -24,7 +40,23 @@ SMODS.DeckSkin {
 	lc_atlas = "collab_AU_diamonds_1",
 	hc_atlas = "collab_AU_diamonds_2",
 	posStyle = "collab",
-	loc_txt = {["en-us"] = "Among Us"}
+	loc_txt = {
+		['en-us'] = "Among Us", -- English
+		['de'] = "Among Us", -- German / Deutsch
+		['es_419'] = "Among Us", -- Spanish (Mexico) / Español (México)
+		['es_ES'] = "Among Us", -- Spanish (Spain) / Español (España)
+		['fr'] = "Among Us", -- French / Français
+		['id'] = "Among Us", -- Indonesian / Bahasa Indonesia
+		['it'] = "Among Us", -- Italian / Italiano
+		['ja'] = "Among Us", -- Japanese / 日本語
+		['ko'] = "Among Us", -- Korean / 한국어
+		['nl'] = "Among Us", -- Dutch / Nederlands
+		['pl'] = "Among Us", -- Polish / Polski
+		['pt_BR'] = "Among Us", -- Portugese (Brazilian) / Português
+		['ru'] = "Among Us", -- Russian / Русский
+		['zh_CN'] = "Among Us", -- Simplified Chinese / 简体中文
+		['zh_TW'] = "Among Us", -- Traditional Chinese / 繁體中文
+	}
 }
 
 SMODS.DeckSkin {
@@ -34,7 +66,23 @@ SMODS.DeckSkin {
 	lc_atlas = "collab_AU_spades_1",
 	hc_atlas = "collab_AU_spades_2",
 	posStyle = "collab",
-	loc_txt = {["en-us"] = "Among Us"}
+	loc_txt = {
+		['en-us'] = "Among Us", -- English
+		['de'] = "Among Us", -- German / Deutsch
+		['es_419'] = "Among Us", -- Spanish (Mexico) / Español (México)
+		['es_ES'] = "Among Us", -- Spanish (Spain) / Español (España)
+		['fr'] = "Among Us", -- French / Français
+		['id'] = "Among Us", -- Indonesian / Bahasa Indonesia
+		['it'] = "Among Us", -- Italian / Italiano
+		['ja'] = "Among Us", -- Japanese / 日本語
+		['ko'] = "Among Us", -- Korean / 한국어
+		['nl'] = "Among Us", -- Dutch / Nederlands
+		['pl'] = "Among Us", -- Polish / Polski
+		['pt_BR'] = "Among Us", -- Portugese (Brazilian) / Português
+		['ru'] = "Among Us", -- Russian / Русский
+		['zh_CN'] = "Among Us", -- Simplified Chinese / 简体中文
+		['zh_TW'] = "Among Us", -- Traditional Chinese / 繁體中文
+	}
 }
 
 SMODS.Atlas {
