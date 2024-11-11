@@ -60,7 +60,7 @@ SMODS.Atlas {
 
 SMODS.Atlas {
 	key = "collab_AU_diamonds_2",
-	path = "collab_AU_diamonds_3.png",
+	path = "collab_AU_diamonds_2.png",
 	px = 71, 
 	py = 95,
 }
