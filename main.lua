@@ -19,7 +19,7 @@ SMODS.DeckSkin {
 
 SMODS.DeckSkin {
 	key = "collab_AU_diamonds",
-	suit = "Dianmonds",
+	suit = "Diamonds",
 	ranks = {"Jack", "Queen", "King"},
 	lc_atlas = "collab_AU_diamonds_1",
 	hc_atlas = "collab_AU_diamonds_2",
