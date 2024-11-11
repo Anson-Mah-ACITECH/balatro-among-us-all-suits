@@ -11,6 +11,12 @@ G.COLLABS.options.Clubs[#G.COLLABS.options.Clubs + 1] = "collab_AU_clubs"
 G.COLLABS.options.Diamonds[#G.COLLABS.options.Diamonds + 1] = "collab_AU_diamonds"
 G.COLLABS.options.Spades[#G.COLLABS.options.Spades + 1] = "collab_AU_spades"
 
+function SMODS.current_mod.process_loc_text()
+	G.localization.misc.collabs.Clubs['4'] = "Among Us"
+	G.localization.misc.collabs.Diamonds['4'] = "Among Us"
+	G.localization.misc.collabs.Spades['4'] = "Among Us"
+end
+
 SMODS.Atlas {
 	key = "collab_AU_clubs_1",
 	path = "collab_AU_clubs_1.png",
