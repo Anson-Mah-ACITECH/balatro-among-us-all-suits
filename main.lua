@@ -7,15 +7,35 @@
 ----------------------------------------------
 ------------MOD CODE -------------------------
 
-G.COLLABS.options.Clubs[#G.COLLABS.options.Clubs + 1] = "collab_AU_clubs"
-G.COLLABS.options.Diamonds[#G.COLLABS.options.Diamonds + 1] = "collab_AU_diamonds"
-G.COLLABS.options.Spades[#G.COLLABS.options.Spades + 1] = "collab_AU_spades"
+SMODS.DeckSkin {
+	key = "collab_AU_clubs",
+	suit = "Clubs",
+	ranks = {"Jack", "Queen", "King"},
+	lc_atlas = "collab_AU_clubs_1",
+	hc_atlas = "collab_AU_clubs_2",
+	posStyle = "collab",
+	loc_txt = {["en-us"] = "Among Us"}
+}
 
-function SMODS.current_mod.process_loc_text()
-	G.localization.misc.collabs.Clubs['4'] = "Among Us"
-	G.localization.misc.collabs.Diamonds['4'] = "Among Us"
-	G.localization.misc.collabs.Spades['4'] = "Among Us"
-end
+SMODS.DeckSkin {
+	key = "collab_AU_diamonds",
+	suit = "Dianmonds",
+	ranks = {"Jack", "Queen", "King"},
+	lc_atlas = "collab_AU_diamonds_1",
+	hc_atlas = "collab_AU_diamonds_2",
+	posStyle = "collab",
+	loc_txt = {["en-us"] = "Among Us"}
+}
+
+SMODS.DeckSkin {
+	key = "collab_AU_spades",
+	suit = "Spades",
+	ranks = {"Jack", "Queen", "King"},
+	lc_atlas = "collab_AU_spades_1",
+	hc_atlas = "collab_AU_spades_2",
+	posStyle = "collab",
+	loc_txt = {["en-us"] = "Among Us"}
+}
 
 SMODS.Atlas {
 	key = "collab_AU_clubs_1",
